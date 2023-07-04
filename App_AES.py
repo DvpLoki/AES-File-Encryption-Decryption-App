@@ -130,6 +130,7 @@ def main():
             }
             a:hover{ 
             color: white;
+            text-decoration: none;
             }
     </style>
 
