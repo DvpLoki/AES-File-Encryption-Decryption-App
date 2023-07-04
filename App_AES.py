@@ -125,6 +125,12 @@ def main():
                 font-size: 14px;
                 color:white;
             }
+            a{
+            text-decoration:none;
+            }
+            a:hover{ 
+            color: white;
+            }
     </style>
 
     <div class="footer">
